@@ -1,7 +1,7 @@
 Project: Computer Vision for Warehouse Automation (ITAI 1378)
 
 1. Problem Statement
-The high volume of product movements and manual asset tracking in warehouse and operational logistics environments leads to inefficiencies, human error, and delays in inventory management. This project addresses the need for a scalable, automated system to monitor and track **[Specify objects, e.g., crates, boxes, or machinery]** in real-time, leveraging Computer Vision to enhance efficiency.
+The high volume of product movements and manual asset tracking in warehouse and operational logistics environments leads to inefficiencies, human error, and delays in inventory management. This project addresses the need for a scalable, automated system to monitor and track industrial assets, including pallets, crates, and personnel in real-time, leveraging Computer Vision to enhance efficiency.
 
 2. Approach and Methodology
 This project utilizes Computer Vision techniques to detect and track key assets.
