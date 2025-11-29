@@ -13,11 +13,13 @@ Technical Skills and Technologies
 
 I wil have developed competencies in the following areas and tools:
 Languages: Python.
-Deep Learning / ML Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
+Machine Learning: Introduction of Machine Learning Models
+AI in Cybersecurity.
+
 Areas of Specialization:
+
 Computer Vision (CV): OpenCV, Object Detection (YOLO, R-CNN), Image Classification.
-Natural Language Processing (NLP): Sentiment Analysis, Language Models (RNN/LSTM/Transformers), Chatbots.
-Classical Machine Learning: Regression, Classification, Clustering.
+
 Tools: Jupyter Notebooks, Google Colab, Git & GitHub.
 
 Featured Courses and Projects
@@ -26,9 +28,10 @@ This section lists the key projects organized by courses. Each project will incl
 
 | Course | Description | Featured Projects |
 | :--- | :--- | :--- |
-| **Deep Learning (ITAI 2376)** | Fundamentals of deep neural networks and their architectures (CNNs, RNNs, LSTMs). | - [CNN Image Classifier](link-to-CNN-folder) |
-| **Computer Vision (ITAI 1378)** | Implementation of image processing and analysis techniques. | - [Object Detection System](link-to-Object-Detection-folder) |
-| **Natural Language Processing (ITAI 2373)** | Applying models for language understanding and generation. | - [Sentiment Analysis Tool](link-to-NLP-folder) |
+| Computer Vision (ITAI 1378) | Implementation of image processing and analysis techniques (OpenCV, Object Detection). | - [Object Detection System](link-to-Object-Detection-folder) |
+| Intro to Machine Learning (ITAI 1371) | Fundamentals of Machine Learning models, covering regression and classification techniques. | - [Project Name, e.g., Classification Model] |
+| A.I. in Cybersecurity (ITAI 1372) | Application of AI models to security challenges, such as malware detection and network traffic analysis. | - [Project Name, e.g., Malware Classifier] |
+| Unix Operating Systems I (ITSC 1307) | Essential command-line skills for server management and system administration. | - [Project Name, e.g., Automation Script] |
 
 
 Professional Contact
