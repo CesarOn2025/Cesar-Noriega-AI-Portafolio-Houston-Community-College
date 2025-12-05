@@ -1,11 +1,13 @@
 # Cesar-Noriega-AI-Portafolio-Houston-Community-College
 # About Me and Professional Background
 
-I am an Applied AI student at Houston Community College (HCC), specializing in Deep Learning and Computer Vision.
-My professional experience spans two decades, combining a strong foundation in Engineering and Logistics with strategic management:
-Military & Engineering: Former Naval Officer (Perú) and Mechanical-Electrical Engineer. I served 10 years in the public sector.
-Business & Strategy: I hold an MBA, complementing my technical skills.
-Private Sector & Oil & Gas: Nearly 10 years of experience in the private sector, including significant roles in a Canadian oil company, focusing on Operational Logistics for both onshore and offshore projects.
+I am an Applied AI student at Houston Community College (HCC), specializing in Deep Learning and Computer Vision. With over 20 years of professional experience, I bring a unique blend of technical expertise and strategic leadership across multiple industries.
+
+Military & Engineering: Former Naval Officer (Peru) and Mechanical-Electrical Engineer, with a decade of service in the public sector, leading complex engineering and operational projects.
+Business & Strategy: Holder of an MBA, complementing my technical background with strong business acumen and decision-making skills.
+Private Sector & Oil & Gas: Nearly 10 years in the private sector, including key roles in a Canadian oil company, managing Operational Logistics for onshore and offshore projects.
+
+Currently, I am leveraging my engineering foundation and leadership experience to develop AI-driven solutions for real-world challenges, focusing on computer vision, predictive analytics, and automation.
 
 I am now leveraging this extensive background to drive innovation through Applied AI and Robotics.
 
